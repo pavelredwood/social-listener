@@ -1,7 +1,7 @@
-# social-listener
+# Social-listener
 Social activity monitor for instagram, vk.com and telegram with a telegram bot for it. 
 
-# architecture design
+# Architecture design
 Social activity monitor will have some goals that must be done, to say that this project is working.
 
 # Open questions:
